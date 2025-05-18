@@ -3,7 +3,7 @@
 import requests
 from telegram import Bot
 
-TELEGRAM_TOKEN = "7983746967:AAFx9ADtOU3yl_YvO2obJOmg91vARYuSYR8"
+TELEGRAM_TOKEN = "7887469919:AAFm0gFLpc0hINEnaEWGq1br7NqtLuISY_Y"
 CHAT_ID = "8090877690"
 
 def send_telegram_message(message):
